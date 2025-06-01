@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hector Andres
+    name-particle: 
+    family-names: Fernandez Esquivel
+    email: L21212153@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de Mexico
+identifiers:
+  - type: url
+    value: >-
+      https://https://github.com/AndresUN1/Gemelos-Digitales-Sistema-de-Lotka-Volterra-Fernandez21212153
+    description: Practica 2 Sistema Presa-Depredador de Lotka-Volterra
+abstract: |-
+  Tecnologico Nacional de México 
+    Instituto Tecnologico de Tijuana
+    Ingeniería Biomédica 
+    Gemelos Digitales
+    Práctica 2 Sistema Presa-Depredador de Lotka-Volterra
+keywords:
+  - Lotka-Volterra
+  - HIV
+  - CD4+
+  - Equilibrium
+  - Analysis
+license: BSD-2-Clause

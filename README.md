@@ -14,7 +14,7 @@ En esta práctica se formula un modelo de ecuaciones matematico que describe la 
 2. Desarrollar un algoritmo que permita ajusta los datos experimentales.
 3. Realizar pruebas de significacion estadistica.
 4. Determinar los puntos de equilibrio y estabilidad local del sistema.
-5. Realizar ajuste a grupos de datos para graficar las soluciones de las ecuaciones en forma normalizada y a 2t.
+5. Realizar ajuste a grupos de datos para graficar las soluciones de las ecuaciones a 2t.
 
 ## Docente
 Dr. Paul A. Valle
